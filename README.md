@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sourav
+- 👋 Hi, I’m Sourav
 - 👀 I’m interested in Data Science
 
 <!---
